@@ -1,0 +1,9 @@
+.header {
+    background-image: url("images/header.jpg");
+    background-position: center;
+    height: 100px;
+}
+.header h1{
+    color: white;
+    text-align: center;
+}
